@@ -16,7 +16,7 @@
       "inline"
     ],
     "website": "https://github.com/EvamariaTG/EvaMaria",
-    "repository": "https://github.com/EvamariaTG/EvaMaria",
+    "repository": "https://github.com/DARK-WEBLOAD-TG/DWL-MOVIE-BOT",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
